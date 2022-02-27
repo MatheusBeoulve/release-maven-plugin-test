@@ -3,7 +3,7 @@
 
   <groupId>com.github.matheusbeoulve.</groupId>
   <artifactId>release-maven-plugin-test</artifactId>
-  <version>1.0.1</version>
+  <version>1.0.2-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <distributionManagement>
@@ -16,6 +16,6 @@
 
   <scm>
     <connection>scm:git:https://github.com/MatheusBeoulve/release-maven-plugin-test.git</connection>
-    <tag>release-maven-plugin-test-1.0.1</tag>
+    <tag>HEAD</tag>
   </scm>
 </project>
